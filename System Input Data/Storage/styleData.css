@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    color:  rgb(24, 192, 114);
+}
+
+body {
+    background-color: rgb(17, 17, 17);
+}
+
+table {
+    margin: 50px auto;
+    width: 50%;
+    border: 1px solid rgb(31, 31, 31);
+    background-color: rgb(31, 31, 31);
+    border-collapse: collapse;
+}
+
+thead tr th {
+    padding: 10px;
+    border-bottom: 2px solid rgb(24, 192, 114);
+}
+
+.data tr td {
+    padding: 7px;
+    text-align: center;
+}
